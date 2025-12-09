@@ -8,7 +8,7 @@ import threading
 import time
 
 # --- 配置 ---
-PORT = 9999
+PORT = 8000
 MARKER_FILE = "markers.json"
 
 # --- HTML 前端页面 (包含 CSS 和 JS) ---
